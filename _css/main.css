@@ -1,0 +1,505 @@
+@charset "utf-8";
+/* CSS Document */
+/*
+Developer ARE Visual (Andrew R Emery)
+	Email:andrew@arevisual.com
+Art Director/Designer: Jehan Said
+	Email:jehankjsaid@gmail.com
+Date Created: 1/29/16
+Last Edited 1/27/17
+Written for: Future of health technology summit
+Swatch
+===========================
+===========================
+TOC
+===========================*
+Global
+header
+hompage
+footer
+/*============Global==============*/
+html,body{
+  margin:0;
+  padding:0;
+   height:100%;
+   width:100%;
+   x-overflow: hidden;
+ }
+*{
+  	font-family: "proxima-nova",sans-serif;
+	z-index: 1;
+	text-align: center;
+
+}
+a{
+	color:rgba(222,71,40,1.00);
+}
+body{
+	background-color: rgba(230,230,230,1.00);
+	font-size: 20px;
+	width: 100%;
+}
+/*=============Header=============*/
+header{
+	background-color: rgba(0,64,128,1.00);
+	text-align: left;
+}
+header *{
+	text-align: left;
+}
+header nav{
+	text-align: center;
+}
+hgroup{
+	color: white;
+	margin-left: 10em;
+	display: inline-block;
+}
+hgroup h1{
+	font-size: 2.5em;
+}
+h2{
+	text-align: center;
+	width: 100%;
+}
+hgroup h3{
+	font-size: 1em;
+	font-style: italic;
+	font-weight: lighter;
+}
+h3,h4{
+	color:rgba(222,71,40,1.00);
+}
+header h3{
+	color: rgba(255,255,255,1.00);
+}
+header .learnMoreButton{
+	padding: 8px;
+	float: right;
+	margin: .5em;
+	margin-top: 2em;
+	/*width: 7%;*/
+	/*height: 45px;*/
+	font-size: .75em;
+	text-align: center;
+}
+#programButton{
+	padding: 8px;
+	float: right;
+	margin: .5em;
+	margin-top: 2em;
+	/*width: 7%;*/
+	/*height: 45px;*/
+	border-radius: 20px;
+	border:0.15em solid rgba(255,255,255,1.00);
+	background-color: rgba(145,166,195,.30);
+	webkit-transition: color 300ms, background 500ms, border-color 300ms;
+	transition: color 300ms, background 500ms, border-color 300ms;
+	font-size: .75em;
+}
+#programButton:hover{
+	background-color: rgba(145,166,195,1.00);
+}
+#navIcon{
+	float: right;
+	font-size: 2em;
+	margin: .75em;
+	color: #ffffff;
+}
+nav{
+	margin: 1% 0;
+	font-size: 2em;
+}
+nav li{
+	padding: .5em;
+	text-align: center;
+	list-style: none;
+}
+nav a{
+	color: white;
+	text-decoration: none;
+}
+nav a:hover{
+	color: white;
+}
+nav a:active{
+	color: rgba(222,71,40,1.00);
+}
+#logo{
+	position: absolute;
+	top: 0;
+	margin: .75em 0 0 .25em;
+}
+/*===========Homepage===============*/
+#location{
+   margin-left:20px;
+   	background-color: rgba(37,64,142,1.00);
+	color:rgba(250,250,250,1.00);
+	margin: .5em 0;
+	font-size: 2em;
+	font-weight: lighter;
+	padding: .5em;
+}
+#location hgroup{
+	margin-left: 0;
+	color:rgba(255,255,255,1.00);
+}
+#location h3{
+	color:rgba(255,255,255,1.00);
+	font-size: .7em;
+}
+#location h4{
+	color:rgba(255,255,255,1.00);
+}
+.borderdb-o{
+	left: 0;
+	position: absolute;
+	width: 100%;
+	height: 90px;
+	background-image:url(../_img/fhti_Triangle_DB-O.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	z-index:999999;
+}
+#speakers{
+	padding-top: 60px;
+}
+#speakers ul{
+	list-style: none;
+}
+.slider-arrow{
+	color: rgba(0,0,0,1.00);
+	font-size: 1.5em;
+	margin: 1em;
+}
+#fhti{
+	padding-top: 60px;
+	background-color: rgba(145,166,195,.50);
+	margin-top: 1.8em;
+	padding-bottom: 2em;
+}
+.learnMoreButton{
+	background-color:transparent;
+	border-radius: 20px;
+	font-size: 1em;
+	color:rgba(222,71,40,1.00);
+	text-decoration:none;
+	text-rendering:optimizeLegibility;
+	border:0.15em solid rgba(222,71,40,1.00);
+	padding:0.4em 0.6em;
+	-webkit-transition: color 300ms, background 500ms, border-color 700ms;
+	transition: color 300ms, background 500ms, border-color 700ms;
+}
+.learnMoreButton:hover{
+	background:rgba(222,71,40,1.00);
+	border-color:rgba(222,71,40,1.00);
+	color:#fff;
+}
+#award{
+	padding-top: 60px;
+}
+#videos{
+	margin-top: 50px;
+	background-color: rgba(145,166,195,.50);
+	padding: 2em;
+}
+#misson{
+	padding-top: 60px;
+}
+#topics{
+	width: 100%;
+	padding-top: 60px;
+	margin-top: 20px;
+	background-color: rgba(145,166,195,.50);
+}
+#location h2{
+	font-weight: bold;
+}
+#homePageHero{
+	height: 1200px;
+	width: 100%;
+	background-image: url(../_img/futureOfHealthTechnologyWorldHealthStrategyBanner.jpg);
+	background-size: cover;
+  background-position: center;
+	z-index: -1;
+}
+form{
+	padding: 1em;
+}
+.centerParagraphs{
+	padding:0 25%;
+	line-height: 2em;
+}
+#topics{
+	font-size: 1.2em;
+	display: inline-block;
+}
+.coloredTopics{
+	color: rgba(100,100,100,1.00);
+}
+hr{
+	border: 0;
+    height: 3px;
+    background: #333;
+	padding:0 50%;
+}
+#topics li{
+	text-align: left;
+	text-decoration: none;
+	list-style-type:none;
+	padding: .5em;
+}
+#spreadTheWord{
+	background-image: url(../_img/dna.jpg);
+	background-size: cover;
+	opacity: .75;
+	color:rgba(248,248,248,1.00);
+}
+#spreadTheWord h2{
+	padding: .5em;
+}
+#spreadTheWord i{
+	font-size: 2.1em;
+}
+/**/
+#pegasus{
+	background-color: rgba(60,60,60,1.00);
+	color: rgba(251,251,251,1.00);
+	text-align: center;
+	height: 300px;
+	padding: 1em;
+}
+#pegasus p{
+	font-size: 1.5em;
+	line-height: 1.25em;
+	font-weight: 25;
+	font-style: italic;
+}
+#pegasus img{
+	float: left;
+	height: 100%;
+}
+#pegasus section{
+	width: 50%;
+	float: right;
+}
+#pegText{
+	width: 50%;
+	float: right;
+	text-align: left;
+	line-height: 2em;
+	padding: 0px 3em 0px 0px;
+}
+#pegText p{
+	text-align: left;
+}
+#pegImg{
+	width: 50%;
+	float: left;
+}
+#book{
+	height: 200px;
+}
+/**/
+#aboutHero{
+	height: 600px;
+	width: 100%;
+	background-image:url(../_img/aboutHero.jpg);
+	background-size: cover;
+	margin-bottom: 2em;
+	z-index: -1;
+}
+#aboutRenataHero{
+  height: 600px;
+	width: 100%;
+	background-image:url(../_img/renataBushkoAtThe20thFutureOfHealthTechnologySummit.jpg);
+	background-size: cover;
+  padding: 1em;
+	margin-bottom: 2em;
+  background-position: center;
+	z-index: -1;
+}
+#aboutRight{
+	width: 45%;
+  padding: 0 3%;
+	float: right;
+	text-align: left;
+	line-height: 2em;
+}
+#aboutRight *{
+	text-align: left;
+}
+#aboutRight hr{
+	background-color: rgba(222,71,40,1.00);
+	height: 6px;
+	width: 25px;
+}
+#aboutRight h2{
+	color: rgba(222,71,40,1.00);
+}
+#aboutRight h3{
+	color: rgba(31,31,31,1.00);
+}
+#aboutLeft{
+	width: 40%;
+	float: left;
+}
+#aboutLeft h4{
+	color: rgba(31,31,31,1.00);
+}
+/*===========Footer===============*/
+footer{
+	clear: both;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 900px;
+	background-color: rgba(0,64,128,1.00);
+	padding: 1em;
+}
+.footerIcon{
+	opacity:.9;
+}
+.footerIcon:hover{
+	opacity:1;
+}
+#sponsors{
+	background-color: rgba(230,230,230,1.00);
+	padding: 1em;
+}
+#sponsors h4{
+	font-weight: bold;
+}
+#sponsors li{
+	display: inline;
+	list-style: none;
+}
+.modal{
+	margin-top: 10%;
+}
+#close{
+	position:fixed;
+	font-size: 3em;
+	float: right;
+	background-color: transparent;
+	top: 0;
+	right: 0;
+	padding-right: .5em;
+}
+.btn{
+	border: none;
+}
+@media (max-width: 1490px){
+	hgroup h1{
+		font-size: 1.6em;
+	}
+	hgroup h3{
+		display: none;
+	}
+	 header .learnMoreButton {
+		float: none;
+	 	clear: both;
+		width: 90%;
+	}
+	header #programButton {
+		float: none;
+	 	clear: both;
+		width: 90%;
+	}
+}
+@media (orientation:portrait){
+	#homePageHero{
+		height: 20em;
+    background-image: url(../_img/futureOfHealthTechnologyWorldHealthStrategyMobileBanner.jpg);
+	}
+	#aboutHero{
+		height: 15em;
+	}
+	.centerParagraphs{
+		padding: 0 .25em;
+	}
+	header{
+		padding-bottom: 60px;
+	}
+	header img{
+		height: 40px;
+		width: 40px;
+	}
+	hgroup{
+		margin-left: 60px;
+	}
+	hgroup h1{
+		font-size: .5em;
+	}
+	hgroup h3{
+		font-size: .3em;
+		visibility: hidden;
+	}
+ header .learnMoreButton {
+		float: none;
+	 	clear: both;
+		width: 90%;
+	}
+	header #programButton {
+		float: none;
+	 	clear: both;
+		width: 90%;
+	}
+	#navIcon{
+		font-size: 1.2em;
+	}
+	nav li{
+		font-size: .75em;
+	}
+	#speakers{
+		visibility:hidden;
+		height: 0%;
+		width: 0%;
+		display: inline;
+	}
+	#videos{
+		visibility:hidden;
+		height: 0%;
+		width: 0%;
+		display: inline;
+	}
+	#fhti{
+		margin-top: -16em;
+		padding-top: 85px;
+	}
+	#misson{
+		margin-top: -600px;
+	}
+	hr{
+		visibility: hidden;
+	}
+	#aboutLeft, #aboutRight{
+		float: none;
+		width: 100%;
+		padding: 1.2em;
+	}
+	#pegImg, #pegText{
+		float: none;
+		width: 100%;
+		padding: 1em;
+}
+#pegasus{
+	background-color:transparent;
+	height: 0;
+}
+#pegasus img{
+	visibility:hidden;
+	display: inline;
+}
+#pegasus p, h2{
+	color: rgba(21,9,0,.80);
+}
+#pegasus section{
+	width: 100%;
+}
+#liCircle{
+	width: 250px;
+	height:250px;
+}
+}

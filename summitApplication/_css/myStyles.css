@@ -1,0 +1,553 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Author: Marisa Campbell
+	Date: January 29, 2016
+	Update: March 15, 2016
+	Description: Mobile App for Future of Health Technology Summit
+
+*/
+
+
+body{
+	
+
+}
+/*------Global---------*/
+*{
+margin:0;
+padding:0;
+font-family: "proxima-nova",sans-serif;
+font-size:1em;
+z-index:1;	
+	
+}
+/*---------- h1------------*/
+h1{
+	
+	font-family: "proxima-nova",sans-serif;
+	font-size:1.5em;
+	color:#FFFFFF;
+	padding-right:2em;
+	text-shadow:0 0 0;
+	
+
+}
+  
+.nav{
+	overflow: scroll;
+}
+	
+/*----------- Map-----------*/
+
+#map-page {
+	width: 100%; 
+	height: 100%; 
+}
+	
+#map-canvas {
+	width: 100%;
+	height: 100%;
+	
+}
+#basic_map{
+	background-color:#e6e7e8;	
+}
+
+/*------------Footer-------------*/
+#footer {
+   position:fixed;
+   height:70px;
+   clear:both;
+   width:100%;
+   background-color:#1b447f;
+}
+
+/*-------- Topics Page-------------*/
+
+#speakers{
+	background-color:#e6e7e8;	
+}
+
+
+#topics{
+	background-color:#e6e7e8;	
+}
+/*-------- Map Page-------------*/
+#map{
+	background-color:#e6e7e8;	
+	color:#000000;
+	font-family: "proxima-nova",sans-serif;	
+	
+}
+
+#map-page, #map-canvas { width: 100%; height: 100%; padding-bottom: 2em; }
+/*-------- Program Page-------------*/
+#program{
+	background-color:#e6e7e8;	
+}
+
+/*-------- Winner Page-------------*/
+#2016winner{
+		background-color:#0CEB06;	
+}
+
+
+#box-winner{
+	background-color:#fff;
+	/*width:400px;*/
+	height:420px;
+	text-align:center;
+	margin:0 auto;
+	font-size:18px;
+	padding:.5em;
+}
+#winnertitle{
+	text-align:left;
+}
+#winnercontent{
+
+	text-align:left;
+}
+	#buttonwinner{
+				background-color: transparent;
+				color:#e6e7e8;
+				border:hidden;
+				margin-top:.2em;
+				text-align:center;
+			
+
+		}
+		
+	.memorial-title2{
+	margin-bottom:.7em;
+	font-family: "proxima-nova",sans-serif;	
+	font-size:30px;
+	padding: 1em;
+}
+
+#content-memorial2{
+	margin-top:-2.5em;
+}
+
+#box-memorial-3{
+	background-color:#fff;
+	/*width:400px;*/
+	/*height:450px;*/
+	text-align:center;
+	margin:0 auto;
+	font-size:18px;
+	padding:.5em;
+}
+
+/*-------- Memorial Page-------------*/
+#memorial{
+	background-color:#e6e7e8;
+	font-family: "proxima-nova",sans-serif;	
+	
+	
+}
+.minksy{
+	width:100%;
+	
+	
+	
+}
+
+#box-memorial{
+	background-color:#fff;
+	/*width:400px;*/
+	/*height:150px;*/
+	text-align:center;
+	margin:0 auto;
+	font-size:18px;
+	padding:.5em;
+}
+#box-memorial-2{
+	background-color:#fff;
+	/*width:400px;*/
+	/*height:660px;*/
+	text-align:center;
+	margin:0 auto;
+	font-size:18px;
+	padding:.5em;
+}
+#marvin{
+	margin-bottom:5em;	
+	
+	
+}
+
+#quote{
+	float:left;
+}
+
+#memorial-text{
+	text-align:left;
+	margin-top:.5em;
+	font-family: "proxima-nova",sans-serif;
+	padding-left:.5em;
+	padding-right:.5em;	
+}
+
+		
+#line7{
+			border:1px solid #e6e7e8;
+			width:255px;
+			margin-right:11px; 
+			margin-left:-20px;
+			
+		}
+.memorial-title{
+	margin-bottom:.7em;
+	font-family: "proxima-nova",sans-serif;	
+	font-size:30px;
+}
+
+#content-memorial{
+	margin-top:-3.5em;
+	/*height: 250px;*/
+}
+/*-------- Home Page-------------*/
+
+P{ 
+text-align:left;
+font-family: "proxima-nova",sans-serif;
+font-size:1em; 
+color:#4c4c4e;
+}
+
+h2{ 
+text-align: center;
+font-family: "proxima-nova",sans-serif;
+font-size:1.5em;
+margin-left:0 auto;
+margin-right:0 auto;
+ 
+}
+
+#home{
+	background-color:#e6e7e8;
+}
+
+#box{
+	background-color:#fff;
+	/*width:400px;*/
+	/*height:300px;*/
+	text-align:center;
+	margin:0 auto;
+	font-size:18px;
+}
+
+
+.hometitle{
+	font-family: "proxima-nova",sans-serif;
+	font-size:1.8em;
+	text-align:center;
+}
+.hometitle2{
+	font-family: "proxima-nova",sans-serif;
+	font-size:1.5em;
+	text-align:center;
+}
+
+#homepagetext{
+	font-family: "proxima-nova",sans-serif;	
+	font-size:1em;
+	text-align:left;
+
+}
+#homepagetext2{
+	font-family: "proxima-nova",sans-serif;	
+	font-size:1em;
+	text-align:left;
+}
+#tagline{
+	text-align:left;
+}
+
+
+
+
+/*-------Navigation------------------*/
+
+        .ui-panel-inner {
+            padding:0;
+			width: 30%;
+			/*height:200px;*/
+			
+			
+        }
+		#navicon{
+			float:left;
+			padding-left:.5em;
+			padding-top:.5em;
+			margin-top:-2.7em;
+			
+			
+			
+			
+		}
+		
+		.navtitle{
+			font-family: "proxima-nova",sans-serif;
+			font-size:16px;
+			float:left;
+			padding-left:2em;
+			margin-top:-1.8em;
+			line-height:-20px;
+			color:#FFFFFF;
+			text-align:center;
+			text-shadow:0 0 0;
+		
+		
+			
+}
+	
+		
+        .ui-controlgroup {
+            margin:0; 
+		
+       
+		}
+        #header {
+            height:54px;
+			background-color:#1b447f;
+			border-color:#1b447f ;
+			
+		
+        }
+        #bars-button {
+            margin:1px;
+			height:30%;
+			border:hidden;
+			background-color: transparent;
+			box-shadow:none;
+			
+			
+			 
+		}
+		h5{
+			
+			font-family: "proxima-nova",sans-serif;
+			font-size:1em;
+			color:#4c4c4e;
+			height: 8.5em;
+  			display: flex;
+  			
+			
+        		
+        		
+			
+		}
+		
+		#navpanel{
+			background-color:#4c4c4e;
+			color:#e6e7e8;
+			width:50%;
+			height:830px;
+			text-align:center;
+			margin-left:0 auto;
+  			margin-right:0 auto;
+			
+		}
+		
+	
+	
+
+		#buttonabout{
+				background-color: transparent;
+				color:#e6e7e8;
+				border:hidden;
+				margin-top:.2em;
+				text-align: center;
+  				
+    			
+				
+
+		}
+
+
+		
+		#buttonprogram{
+				background-color: transparent;
+				color:#e6e7e8;
+				border:hidden;
+				margin-top:.2em;
+				text-align:center;
+				
+    			
+				
+
+		}
+		#buttonspeakers{
+				background-color: transparent;
+				color:#e6e7e8;
+				border:hidden;
+				margin-top:.2em;
+				text-align:center;
+				
+    			
+				
+		}
+		#buttonmap{
+				background-color:transparent;
+				color:#e6e7e8;
+				border:hidden;
+				margin-top:.2em;
+				text-align:center;
+				
+    			
+			}
+
+			#buttonmemorial{
+				background-color:transparent;
+				color:#e6e7e8;
+				border:hidden;
+				margin-top:.2em;
+				text-align:center;	
+			}
+			hr{
+				width: 120px;
+			}
+		/*#line{
+			border:1px solid #e6e7e8;
+			width:255px;
+			margin-right:11px; 
+			margin-left:-20px;
+			
+		}
+		#line2{
+			border:1px solid #e6e7e8;
+			width:255px;
+			margin-right:11px; 
+			margin-left:-20px;
+			
+		}
+		#line3{
+			border:1px solid #e6e7e8;
+			width:255px;
+			margin-right:11px; 
+			margin-left:-20px;
+			
+		}
+		
+		
+		#line5{
+			border:1px solid #e6e7e8;
+			width:255px;
+			margin-right:11px; 
+			margin-left:-20px;
+		*/
+			
+		}
+		H3{
+			text-align:center;
+			font-family: "proxima-nova",sans-serif;
+			font-size:1em;
+			color:#4c4c4e;
+			
+		}
+	
+			
+		
+		h4{
+		text-align:center;
+		margin:0 auto;
+		font-family: "proxima-nova",sans-serif;
+		font-size:1.2em;
+			
+		}
+		#linkmap{
+			text-align:center;
+			color:#FFFFFF;
+			float:right;
+			margin-top:3em;
+			margin-left: 2em;
+			text-shadow:0 0 0;
+			
+			
+		}
+		#linkabout{
+			text-align:center;
+			color:#FFFFFF;
+			float:right;
+			margin-top:3em;
+			margin-left: 2em;
+			text-shadow:0 0 0;
+		}
+		#linkwinner{
+			text-align:center;
+			color:#FFFFFF;
+			float:right;
+			margin-top:3em;
+			margin-left: 2em;
+			text-shadow:0 0 0;
+		}
+		
+		#linkprogram{
+			text-align:center;
+			color:#FFFFFF;
+			float:right;
+			margin-top:3em;
+			margin-left: 2em;
+			text-shadow:0 0 0;
+		}
+		
+			
+		#linkmemorial{
+			text-align:center;
+			color:#FFFFFF;
+			float:right;
+			margin-top:3em;
+			margin-left: 2em;
+			text-shadow:0 0 0;
+		}
+/*-------Social Media------------------*/
+		
+		#buttonfacebook{
+				background-color: transparent;
+				color:#e6e7e8;
+				border:hidden;
+				margin-top:.2em;
+				text-align:center;
+				background-position: center; 
+				margin-bottom:32px;
+				box-shadow:none;
+				margin-left:1em;
+				
+			
+
+		}
+
+		#buttontwitter{
+				background-color: transparent;
+				color:#e6e7e8;
+				border:hidden;
+				margin-top:.2em;
+				text-align:center;
+				background-position: center; 
+				margin-bottom:32px;
+				box-shadow:none;
+				
+
+
+		}
+		#buttonyoutube{
+				background-color: transparent;
+				color:#e6e7e8;
+				border:hidden;
+				margin-top:.2em;
+				text-align:center;
+				background-position: center; 
+				margin-bottom:32px;
+				box-shadow:none;
+				margin-left:10em;
+
+
+		}
+		.socialmedia{
+			margin:0 auto;
+			text-align:center;
+			
+			
+		}
