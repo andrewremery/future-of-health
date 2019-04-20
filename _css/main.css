@@ -6,10 +6,14 @@ Developer ARE Visual (Andrew R Emery)
 Art Director/Designer: Jehan Said
 	Email:jehankjsaid@gmail.com
 Date Created: 1/29/16
-Last Edited 1/27/17
+Last Edited 4/20/19
 Written for: Future of health technology summit
 Swatch
 ===========================
+background-color: rgba(230,230,230,1.00); 
+rgba(222,71,40,1.00);
+background-color: rgba(0,64,128,1.00);
+
 ===========================
 TOC
 ===========================*
@@ -410,7 +414,7 @@ footer{
 }
 @media (orientation:portrait){
 	#homePageHero{
-		height: 20em;
+		height: 25em;
     background-image: url(../_img/futureOfHealthTechnologyWorldHealthStrategyMobileBanner.jpg);
 	}
 	#aboutHero{
