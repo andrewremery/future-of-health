@@ -6,10 +6,14 @@ Developer ARE Visual (Andrew R Emery)
 Art Director/Designer: Jehan Said
 	Email:jehankjsaid@gmail.com
 Date Created: 1/29/16
-Last Edited 1/27/17
+Last Edited 4/20/19
 Written for: Future of health technology summit
 Swatch
 ===========================
+background-color: rgba(230,230,230,1.00); 
+rgba(222,71,40,1.00);
+background-color: rgba(0,64,128,1.00);
+
 ===========================
 TOC
 ===========================*
@@ -205,7 +209,7 @@ nav a:active{
 	padding: 2em;
 }
 #misson{
-	padding-top: 60px;
+	padding-top: 70px;
 }
 #topics{
 	width: 100%;
@@ -400,17 +404,17 @@ footer{
 	 header .learnMoreButton {
 		float: none;
 	 	clear: both;
-		width: 90%;
+		width: 98%;
 	}
 	header #programButton {
 		float: none;
 	 	clear: both;
-		width: 90%;
+		width: 98%;
 	}
 }
 @media (orientation:portrait){
 	#homePageHero{
-		height: 20em;
+		height: 25em;
     background-image: url(../_img/futureOfHealthTechnologyWorldHealthStrategyMobileBanner.jpg);
 	}
 	#aboutHero{
@@ -439,12 +443,12 @@ footer{
  header .learnMoreButton {
 		float: none;
 	 	clear: both;
-		width: 90%;
+		width: 98%;
 	}
 	header #programButton {
 		float: none;
 	 	clear: both;
-		width: 90%;
+		width: 98%;
 	}
 	#navIcon{
 		font-size: 1.2em;
@@ -465,11 +469,8 @@ footer{
 		display: inline;
 	}
 	#fhti{
-		margin-top: -16em;
+		margin-top: -22em;
 		padding-top: 85px;
-	}
-	#misson{
-		margin-top: -600px;
 	}
 	hr{
 		visibility: hidden;
@@ -502,4 +503,259 @@ footer{
 	width: 250px;
 	height:250px;
 }
+}
+
+/*==================================================CHARLSE OLD STYLES=============================================*/
+@charset "UTF-8";
+/*========== CSS Document ==============*/
+body{
+	font-family:"proxima-nova", sans-serif;
+	line-height:1.5em;
+	z-index:0
+}
+
+/*======= Past Award Winners =========*/
+.content{
+	width:100%;
+	z-index:0;
+}
+
+.winnerSection{
+	width:100%;
+	height:auto;
+	background-color:#C0D1E1;
+	float:left;		
+}
+.winnerSection:nth-child(0){
+	background-color:white;
+}
+	
+.winnerSection:nth-child(even){
+	background-color:white;	
+}
+
+/*.borderImg{
+	width:100%;
+	background-image:url(../_img/FHTI_Triangle_DB-O.png);
+	height:45px;
+	z-index:1;
+	position:relative;
+	top:-15px;
+}*/
+.borderdb-oPast{
+	left: 0;
+	position: absolute;
+	width: 100%;
+	height: 90px;
+	background-image:url(../_img/fhti_Triangle_DB-O.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center;
+	z-index:999999;
+	margin-top: -55px;
+}
+.winnerSectionLeftCol{
+	float:left;
+	width:20%;
+	display:block;
+	height:inherit;
+}
+
+.winnerSectionLeftCol img {
+    position: relative;
+	width:180px;
+	height:180px;
+	border-radius:100%;
+	border:#BB4025 medium solid;
+	margin-top:15%;
+	margin-left:50%;
+	text-align:center;
+} 
+
+
+.winnerSectionLeftCol h3{
+	color:#F7933D;
+	width:100%;
+	margin-left:30%;
+	text-align:center;
+}
+
+.winnerSectionLeftCol h4{
+	width:100%;
+	margin-left:30%;
+	text-align:center;
+	
+}
+
+
+.winnerSectionRightCol{
+	float:right;
+	width:75%;
+	height:inherit;
+	display:block;
+	position:relative;
+}
+
+.winnerSectionRightCol p{
+	font-size:.8em;
+	height:inherit;
+	width:66%;
+	margin:0px auto;
+	padding:5%;
+}
+
+/*======= Memorial ==========*/
+.hero{
+	height: 600px;
+	width:inherit;
+	background-image:url(../_img/minskyBushko.jpg);
+	background-size:cover;
+	z-index: -1;
+}
+.hero img{
+	width:inherit;
+}
+
+#heroBlock{
+	width:100%;
+	height:inherit;
+	background-color:#B73E25;
+	padding:2%;
+}
+
+#heroBlock h1{
+	font-size:1.5em;
+	color:white;
+	text-align:center;
+	font-weight:bold;
+	
+}
+
+#blurb{
+	width:inherit;
+	background-color:#E3E0E1;
+}
+
+#memorialLeftCol{
+	width:45%;
+	float:left;
+}
+#memorialLeftCol p{
+	margin:5%;
+	
+}
+#memorialRightCol{
+	width:45%;
+	padding:5%;
+	float:right;
+}
+
+#memorialRightCol div{
+	background-color:#C0D1E1;
+	height:auto;
+	font-variant:small-caps;
+	padding:5%;
+}
+
+#stayConnected{
+	width:100%;
+	background-color:black;
+}
+
+#stayConnected div{
+	height:100px;
+}
+
+/*===========Media Queries============*/
+@media all and (orientation:portrait){
+	.winnerSection .borderImg{
+		width:inherit;
+	}
+	.winnerSectionLeftCol{
+		width:inherit;
+		float:left;
+	}
+	
+	.winnerSectionLeftCol img{
+		width:50%;
+		height:50%;
+		margin-left:25%;
+	}
+	
+	.winnerSectionLeftCol h3{
+		margin:0px;
+		text-align:center;
+	}
+	
+	.winnerSectionLeftCol h4{
+		margin:0px;
+		text-align:center;
+	}
+	
+	.winnerSectionRightCol {
+		width:inherit;
+		float:left;
+		
+	}
+	
+	.winnerSectionRightCol p{
+	}
+	
+	/*==========memorial page===========*/
+	.hero{
+	height:200px;
+	width:inherit;
+	background-image:url(../_img/MinskyBushko.jpg);
+	background-size:cover;
+	z-index:-1;
+}
+	#blurb{
+		width:inherit;
+		padding:0%;
+		
+	}
+	
+	#heroBlock{
+		width:97%;
+		margin-bottom:0px;
+	}
+	
+	#heroBlock h1{
+		padding:none;
+		margin:0px;
+		font-size:1em;
+	}
+	
+	#memorialLeftCol{
+		float:left;
+		width:inherit;
+		padding:.5%;
+	}
+	
+	#memorialLeftCol p{
+		padding:none;
+	}
+	
+	#memorialRightCol{
+		float:left;
+		width:100%;
+		padding:0%;
+	}
+	
+	#memorialRightCol p{
+		font-size:.8em;
+	}
+	
+	#memorialRightCol div{
+		width:90%;
+		height:auto;
+		padding:.3%;
+		margin:0px auto;
+		
+		
+	}
+	
+	#memorialRightCol p{
+		padding:0%;
+	}
 }
