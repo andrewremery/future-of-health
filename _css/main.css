@@ -404,12 +404,12 @@ footer{
 	 header .learnMoreButton {
 		float: none;
 	 	clear: both;
-		width: 90%;
+		width: 99%;
 	}
 	header #programButton {
 		float: none;
 	 	clear: both;
-		width: 90%;
+		width: 99%;
 	}
 }
 @media (orientation:portrait){
@@ -443,12 +443,12 @@ footer{
  header .learnMoreButton {
 		float: none;
 	 	clear: both;
-		width: 90%;
+		width: 99%;
 	}
 	header #programButton {
 		float: none;
 	 	clear: both;
-		width: 90%;
+		width: 99%;
 	}
 	#navIcon{
 		font-size: 1.2em;
