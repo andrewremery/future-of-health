@@ -6,7 +6,7 @@ Developer ARE Visual (Andrew R Emery)
 Art Director/Designer: Jehan Said
 	Email:jehankjsaid@gmail.com
 Date Created: 1/29/16
-Last Edited 4/20/19
+Last Edited 4/24/19
 Written for: Future of health technology summit
 Swatch
 ===========================
@@ -27,7 +27,6 @@ html,body{
   padding:0;
    height:100%;
    width:100%;
-   x-overflow: hidden;
  }
 *{
   	font-family: "proxima-nova",sans-serif;
@@ -76,12 +75,13 @@ h3,h4{
 }
 header h3{
 	color: rgba(255,255,255,1.00);
+	margin-top: 0;
 }
 header .learnMoreButton{
 	padding: 8px;
 	float: right;
 	margin: .5em;
-	margin-top: 2em;
+	margin-top: 1.7em;
 	/*width: 7%;*/
 	/*height: 45px;*/
 	font-size: .75em;
@@ -97,7 +97,7 @@ header .learnMoreButton{
 	border-radius: 20px;
 	border:0.15em solid rgba(255,255,255,1.00);
 	background-color: rgba(145,166,195,.30);
-	webkit-transition: color 300ms, background 500ms, border-color 300ms;
+	-webkit-transition: color 300ms, background 500ms, border-color 300ms;
 	transition: color 300ms, background 500ms, border-color 300ms;
 	font-size: .75em;
 }
@@ -398,9 +398,6 @@ footer{
 	hgroup h1{
 		font-size: 1.6em;
 	}
-	hgroup h3{
-		display: none;
-	}
 	 header .learnMoreButton {
 		float: none;
 	 	clear: both;
@@ -410,6 +407,17 @@ footer{
 		float: none;
 	 	clear: both;
 		width: 98%;
+	}
+}
+@media (max-width: 1000px){
+	hgroup{
+		margin-left: 8em;
+	}
+	hgroup h1{
+		font-size: 1.5em;
+	}
+	hgroup h3{
+		font-size: .7em;
 	}
 }
 @media (orientation:portrait){
@@ -434,11 +442,10 @@ footer{
 		margin-left: 60px;
 	}
 	hgroup h1{
-		font-size: .5em;
+		font-size: .8em;
 	}
 	hgroup h3{
-		font-size: .3em;
-		visibility: hidden;
+		font-size: .4em;
 	}
  header .learnMoreButton {
 		float: none;
@@ -455,18 +462,6 @@ footer{
 	}
 	nav li{
 		font-size: .75em;
-	}
-	#speakers{
-		visibility:hidden;
-		height: 0%;
-		width: 0%;
-		display: inline;
-	}
-	#videos{
-		visibility:hidden;
-		height: 0%;
-		width: 0%;
-		display: inline;
 	}
 	#fhti{
 		margin-top: -22em;
@@ -503,10 +498,15 @@ footer{
 	width: 250px;
 	height:250px;
 }
+
+ header .learnMoreButton {
+		float: none;
+	 	clear: both;
+		width: 98%;
+	}
 }
 
 /*==================================================CHARLSE OLD STYLES=============================================*/
-@charset "UTF-8";
 /*========== CSS Document ==============*/
 body{
 	font-family:"proxima-nova", sans-serif;
@@ -697,10 +697,6 @@ body{
 		float:left;
 		
 	}
-	
-	.winnerSectionRightCol p{
-	}
-	
 	/*==========memorial page===========*/
 	.hero{
 	height:200px;

@@ -2,8 +2,8 @@
   <!--Google anlytics-->  <?php include_once("_inc/analyticstracking.php") ?>
     	<a href="index.php"><img src="_img/logo.gif" alt="The future of health technology institute logo" id="logo"></a>
         <hgroup>
-            <h1>20th Anniversary <br> Future of Health Technology Summit&trade;<br>World Health Strategy</h1>
-            <h3>Unite Medicine, Arts, Science &amp; Technology for Happier, Longer Lives</h3>
+            <h1>World Health Strategy eBook</h1>
+            <h3>Based on Future of Health Technology Summits with 1000+ luminaries<br>produced by Renata Bushko, Founder, Future of Health Technology Institute<br>Happier, Longer Lives ® - FHTI since 1996, more than 1000 thinkers</h3>
         </hgroup>
           <i class="fa fa-bars" id="navIcon"></i>
           <!--<a href="http://www.fhti.org/doc/FHTI2016%20Program.pdf" target="_blank"><button type="button" class="btn btn-primary btn-lg" id="programButton">Program</button></a>-->
