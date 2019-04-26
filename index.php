@@ -328,6 +328,21 @@ industry, media, arts, and investors.</p>
                     <li class="coloredTopics">Big Data and Health</li>
                     <li>eHealth</li>
                     <li class="coloredTopics">Chinese Herb-based Drugs, the Immune System and Allergies</li>
+                    <li>3D Bioprinting
+</li>
+                    <li class="coloredTopics">Quantum Computing</li>
+                    <li>Virtual Reality for Health
+</li>
+                    <li class="coloredTopics">Healing Music</li>
+                    <li>Stem Cell Engineering</li>
+                    <li class="coloredTopics">Preventive Genomics</li>
+                    <li>Biocatalyst-based Pharmaceutical Industry</li>
+                    <li class="coloredTopics">Drug Discovery De-Novo</li>
+                    <li>Statitical Classification of High-throuput Multi-Omics
+</li>
+                    <li class="coloredTopics">Future Cancer Drugs
+</li>
+                    <li>Future IP and Legal Issues in AI-based Drug Development</li>
                 </ul>
              <ul class="col-lg-5">
                     <li>Healthcare and Medicine in 20 years</li>
@@ -340,6 +355,18 @@ industry, media, arts, and investors.</p>
                     <li class="coloredTopics">New Cancer Treatment Offerings</li>
                     <li>Artificial Intelligence</li>
                     <li class="coloredTopics">International Cooperation in Health Research, Development and Commercialization</li>
+                    <li>Future Anti-Parasitis Drugs
+</li>
+                    <li class="coloredTopics">Blockchain Revolution</li>
+                    <li>Rejuvenation Drugs</li>
+                    <li class="coloredTopics">Future Health With Machine Learning and NLP</li>
+                    <li>Nano-particle based Drug Delivery</li>
+                    <li class="coloredTopics">Anti-Inflammatory Drugs of the Future</li>
+                    <li>Future Drugs for Neglected Diseases</li>
+                    <li class="coloredTopics">Intracellular Delivery of Genetic Material</li>
+                    <li>Hydrogels for Tissue Regeneration</li>
+                    <li class="coloredTopics">Nanoscale Imaging</li>
+                    <li>Genomic Positioning with CRISPR</li>
                 </ul>
          </article>
 
