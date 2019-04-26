@@ -244,9 +244,9 @@ form{
 }
 hr{
 	border: 0;
-    height: 3px;
-    background: #333;
-	padding:0 50%;
+  height: 3px;
+	background: #333;		
+	width: 60%;
 }
 #topics li{
 	text-align: left;

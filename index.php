@@ -315,8 +315,8 @@ industry, media, arts, and investors.</p>
 		<div class="borderdb-o"></div>
          </article>
          <article id="topics">
-         <h2>2016 topics</h2>
-                <hr>
+         <h2>Topics</h2>
+               <hr>
                 <ul class="col-lg-5 col-lg-offset-2">
                     <li>New World Health Strategy</li>
                     <li class="coloredTopics">The Future of Pain Management</li>
