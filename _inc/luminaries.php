@@ -7,7 +7,7 @@
 
 			<h5>Xiu Min Li</h5>
         </li>
-    <li class"item"><img src="_img/nick_VanTerheyden.jpg" alt="A photo of Nick Terheyden" title="Will healthcare be delivered by George Jetson in the future?"/>
+    <li><img src="_img/nick_VanTerheyden.jpg" alt="A photo of Nick Terheyden" title="Will healthcare be delivered by George Jetson in the future?"/>
 
        		<h5>Nick Terheyden</h5>
         </li>
@@ -207,7 +207,7 @@ offerings to the consumer in the cancer treatment area?"/>
 jQuery('.slider').lbSlider({
     leftBtn: '.sa-left',
     rightBtn: '.sa-right',
-    visible: 4,
+    visible: 3,
     autoPlay: true,
     autoPlayDelay: 5
 });

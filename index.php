@@ -25,6 +25,7 @@
     <script src="_js/myScripts.js"></script>
 </head>
 <body>
+<?php include ("_inc/header.php");?>
      <div id="homePageHero">
                    </div>
       <a href="http://www.futureofhealth.org/fhtiWorldHealthStrategyForHappierLongerLives.php" target="_blank"><button role="button" class="learnMoreButton" style="margin-top: .5em; background-color: rgba(222,71,40,1.00); color: white;">World Health Strategy for Happier Longer Lives Edited by Renata G. Bushko</button>
