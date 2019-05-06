@@ -193,8 +193,71 @@ offerings to the consumer in the cancer treatment area?"/>
   <li><img src="_img/drDanutaGlowacka.jpg" alt="A photo of Dr Danuta Glowacka "/>
     <h5>Dr Danuta Glowacka</h5>
   </li>
-</ul>
 
+  <li><img src="_img/adamYala.jpg" alt="A photo of Adam Yala"/>
+    <h5>Adam Yala</h5>
+  </li>
+  
+  <li><img src="_img/danielAnderson.jpg" alt="A photo of Daniel Anderson"/>
+    <h5>Daniel Anderson</h5>
+  </li>
+  
+  <li><img src="_img/darioLemos.jpg" alt="A photo of Dario Lemos"/>
+    <h5>Dario Lemos</h5>
+  </li>
+  
+  <li><img src="_img/dipakPanigrahy.jpg" alt="A photo of Dipak Panigrahy"/>
+    <h5>Dipak Panigrahy</h5>
+  </li>
+  
+  <li><img src="_img/eranOrr.jpg" alt="A photo of Eran Orr"/>
+    <h5>Eran Orr</h5>
+  </li>
+  
+  <li><img src="_img/jasonYala.jpg" alt="A photo of Jason Yala"/>
+    <h5>Jason Yala</h5>
+  </li>
+  
+  <li><img src="_img/josephCiolino.jpg" alt="A photo of Joseph Ciolino"/>
+    <h5>Joseph Ciolino</h5>
+  </li>
+  
+  <li><img src="_img/josephGonzalezHeydrich.jpg" alt="A photo of Joseph Gonzalez Heydrich"/>
+    <h5>Joseph Gonzalez Heydrich</h5>
+  </li>
+  
+  <li><img src="_img/ketanParanjape.jpg" alt="A photo of Ketan Paranjape"/>
+    <h5>Ketan Paranjape</h5>
+  </li>
+  
+  <li><img src="_img/kristinKnouse.jpg" alt="A photo of Kristin Knouse"/>
+    <h5>Kristin Knouse</h5>
+  </li>
+  
+  <li><img src="_img/lubaGreenwood.jpg" alt="A photo of Luba Greenwood"/>
+    <h5>Luba Greenwood</h5>
+  </li>
+  
+  <li><img src="_img/noahJakimo.jpg" alt="A photo of Noah Jakimo"/>
+    <h5>Noah Jakimo</h5>
+  </li>
+  
+  <li><img src="_img/robertGreen.jpg" alt="A photo of Robert Green"/>
+    <h5>Robert Green</h5>
+  </li>
+  
+  <li><img src="_img/subDatta.jpg" alt="A photo of Sub Datta"/>
+    <h5>Sub Datta</h5>
+  </li>
+  
+  <li><img src="_img/suRyonShin.jpg" alt="A photo of Su Ryon Shin"/>
+    <h5>Su Ryon Shin</h5>
+  </li>
+  
+  <li><img src="_img/yasminJodat.jpg" alt="A photo of Yasmin Jodat"/>
+    <h5>Yasmin Jodat</h5>
+  </li>
+</ul>
 
     <a href="#" class="slider-arrow sa-left">
     	<i class="fa fa-arrow-left"></i>
