@@ -172,6 +172,11 @@ nav a:active{
 #speakers ul{
 	list-style: none;
 }
+.slider li img{
+	width: 40% !important;
+	overflow-x: hidden;
+	}
+
 .slider-arrow{
 	color: rgba(0,0,0,1.00);
 	font-size: 1.5em;
