@@ -18,10 +18,6 @@
 
         <h5>Claudia Pagliari</h5>
         </li>
-    <!--<li><img src="_img/william_Shrank.jpg" alt="A photo of William "/>
-
-     <h5>William Shrank</h5><h6>CVS Health</h6>
-     </li>-->
      <li><img src="_img/alex_Pentland.jpg" alt=" A photo of Alex Pentland" title="Big Data and Health - how can it help you in work and life?"/>
 
      <h5>Alex Pentland</h5>
@@ -30,11 +26,6 @@
 
      <h5>Tom Chittenden</h5>
      </li>
-     <!--<li><img src="_img/wally_Gilbert.jpg" alt=""/>
-
-    <h5></h5>
-    </li>-->
-
      <li><img src="_img/renata-Bushko.jpg" alt="A photo of Renata Bushko" title="Renata Bushko"/>
 
     <h5>Renata Bushko</h5>
@@ -43,18 +34,7 @@
 
     <h5>Dan Hogan</h5>
     </li>
-     <!--<li><img src="_img/logoBw.gif" alt="Black and white logo of the Future of health technology institute(FHTI)" title="What is the future of international cooperation in health research, development and commercialization"/>
-
-    <h5>Zhong Wenya</h5>
-    </li>
--->
-
-       <li><img src="_img/xingJijun.jpg" alt="A photo of Xing Jijun" title="Xing Jijun"/>
-
-     <h5>Xing Jijun</h5>
-     </li>
-
-     <li><img src="_img/sylviaDHobbs.jpg" alt="A photo of Xing Jijun" title="Xing Jijun"/>
+     <li><img src="_img/sylviaDHobbs.jpg" alt="A photo of Sylvia Hobbs" title="Sylvia Hobbs"/>
 
     <h5>Sylvia Hobbs</h5>
     </li>
