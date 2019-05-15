@@ -697,8 +697,11 @@ body{
 	
 	.winnerSectionRightCol {
 		width:inherit;
-		float:left;
-		
+		float:left;	
+	}
+	.winnerSectionRightCol p{
+	width: 90%;
+	padding: 8%;
 	}
 	/*==========memorial page===========*/
 	.hero{
