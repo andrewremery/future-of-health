@@ -6,7 +6,7 @@ Developer ARE Visual (Andrew R Emery)
 Art Director/Designer: Jehan Said
 	Email:jehankjsaid@gmail.com
 Date Created: 1/29/16
-Last Edited 4/26/19
+Last Edited 5/13/19
 Written for: Future of health technology summit
 Swatch
 ===========================
@@ -27,6 +27,9 @@ html,body{
   padding:0;
    height:100%;
    width:100%;
+ }
+ body{
+	overflow-x: hidden;
  }
 *{
   	font-family: "proxima-nova",sans-serif;
@@ -566,11 +569,8 @@ body{
 }
 
 .winnerSectionLeftCol img {
-    position: relative;
-	width:180px;
-	height:180px;
 	border-radius:100%;
-	border:#BB4025 medium solid;
+	border:#BB4025 3px solid;
 	margin-top:15%;
 	margin-left:50%;
 	text-align:center;
@@ -588,7 +588,6 @@ body{
 	width:100%;
 	margin-left:30%;
 	text-align:center;
-	
 }
 
 
@@ -698,8 +697,11 @@ body{
 	
 	.winnerSectionRightCol {
 		width:inherit;
-		float:left;
-		
+		float:left;	
+	}
+	.winnerSectionRightCol p{
+	width: 90%;
+	padding: 8%;
 	}
 	/*==========memorial page===========*/
 	.hero{

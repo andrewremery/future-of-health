@@ -33,9 +33,61 @@
 <body>
 	<article class="content">
     	<section class="winnerSection">
+        <div class="winnerSectionLeftCol">
+           <div class="awardWinnerCircle">
+             <img src="_img/dr-li.jpg" alt="Dr. Li">
 
+             </div>
 
-        <div class="borderdb-oPast" style="display:none;"></div>
+             <h3>Marvin Minsky</h3>
+             <h4>2016</h4>
+         </div>
+         <div class="winnerSectionRightCol">
+           <p>Dr. Li obtained her MD degree in Henan
+School of Chinese Medicine and a Master’s
+degree in Clinical Pediatric Immunology from
+The Graduate School of China Academy of
+Chinese Medical Sciences, where she was
+trained in integrative Western and Traditional
+Chinese Medicine.
+She was Visiting Scientist at Stanford
+before completing a postdoctoral fellowship
+in Clinical Immunology at the Johns Hopkins
+School of Medicine, Asthma and Allergy Center,
+and was appointed instructor. Dr. Li was
+recruited to the Division of Pediatric Allergy
+and Immunology at Mount Sinai when the
+division was established in 1997.
+In the past 17 years, she has investigated
+novel therapies for asthma and food allergy
+combining expertise in allergy and immunology,
+molecular biology and Chinese herbal
+medicine.
+She is sponsor of US-FDA approved clinical
+studies of investigational new botanical
+drugs. In addition to the clinical studies, she
+has established immunobiology and botanical
+chemistry laboratories. Her research has
+resulted in nearly 100 publications.
+She has given 2009 Gail G. Shapiro Memorial
+Lecture at the American Academy of
+Allergy, Asthma and Immunology. Dr. Li also
+served as vice Chair and then Chair of the
+American Academy of Allergy Asthma and
+Immunology (AAAAI), Complementary and Alternative
+Medicine Practices in Allergy Committee.
+Dr. Li also served as Chair of the First
+East-West Scientific Conference on Allergy &amp;
+Traditional Medicine.
+Her work is featured in Henry Ehrlich’s
+book “Food Allergies: Traditional Chinese
+Medicine, Western Science, and the Search
+for a Cure”.</p>
+         </div>
+         </section>
+     <!---endWinner---->
+     <section class="winnerSection">
+     <div class="borderdb-oPast"></div>
        <div class="winnerSectionLeftCol">
            <div class="awardWinnerCircle">
              <img src="_img/minskyBushko.jpg" alt="Marvin Minski">
