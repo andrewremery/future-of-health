@@ -6,7 +6,7 @@ Developer ARE Visual (Andrew R Emery)
 Art Director/Designer: Jehan Said
 	Email:jehankjsaid@gmail.com
 Date Created: 1/29/16
-Last Edited 5/13/19
+Last Edited 6/10/19
 Written for: Future of health technology summit
 Swatch
 ===========================
@@ -487,6 +487,22 @@ footer{
 		width: 100%;
 		padding: 1em;
 }
+.li2{
+	margin-top: .25em;
+}
+
+.liCircle{
+	width: 250px;
+	height:250px;
+}
+
+ header .learnMoreButton {
+		float: none;
+	 	clear: both;
+		width: 98%;
+	}
+}
+@media screen and (max-width: 1100px) {
 #pegasus{
 	background-color:transparent;
 	height: 0;
@@ -501,18 +517,7 @@ footer{
 #pegasus section{
 	width: 100%;
 }
-#liCircle{
-	width: 250px;
-	height:250px;
 }
-
- header .learnMoreButton {
-		float: none;
-	 	clear: both;
-		width: 98%;
-	}
-}
-
 /*==================================================CHARLSE OLD STYLES=============================================*/
 /*========== CSS Document ==============*/
 body{
