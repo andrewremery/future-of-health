@@ -35,11 +35,24 @@
     </article>
     <article id="li">
     	<section id="pegImg">
-            <img src="_img/liCircle.png"alt="A picture of Dr Li" id="liCircle"/>
+            <img src="_img/guillermoCircle.png" alt="A picture of Dr Guillermo" class="liCircle"/>
+        </section>
+        <section id="pegText">
+        	<h2>The 2019 FHTI Award Recipient</h2>
+            <h2>Guillermo Ulises Ruiz-Esparza, MD, PhD</h2>
+            <p>Dr. Guillermo Ulises Ruiz-Esparza, Medical Doctor and BioNanotechnologist, is a pioneer in the field of nanosystems and cardiovascular nanomedicine. He was the first to achieve intravascular and site-specific nanoparticle-based delivery to a failing heart, enabling the current development of new nanotechnologies for delivering genetic material and drugs for the treatment of heart failure. He has also developed pioneering nanotechnologies for spatiotemporal and sequential release of dual therapeutic agents within the same nanosystem as published in the cover of the "Advanced Functional Materials".
+</p>
+<p>Massachusetts Institute of Technology (MIT) – Technology Review recognized him with the prestigious TR35 award as one of the world's top innovators under the age of 35. Guillermo has numerous publications in “Science Translational Medicine”, “Advanced Materials”, “Advanced Functional Materials”, “European Journal of Heart Failure”, “Materials Science and Engineering. He directs the Molecular NanoSystems research group at the Division of Engineering in Medicine at Brigham and Women's Hospital and Harvard Medical School. </p>
+<p>He received his MD and PhD in Biotechnology and Nanotechnology from the Monterrey Institute of Technology and Higher Education-Houston Methodist Hospital Joint MD/PhD Program, later on he completed his Postdoctoral training in Smart Bio and Nanomaterials at Harvard University, Massachusetts Institute of Technology (MIT) and Brigham and Women's Hospital.</p>
+        </section>
+    </article>
+    <div style="clear: both;"></div>
+    <article id="li">
+    	<section id="pegImg">
+            <img src="_img/liCircle.png"alt="A picture of Dr Li" class="liCircle li2"/>
             <h3>Books featuring Li's Work</h3>
-            <!--<p>Food Allergies: Traditional Chinese Medicine, Western Science, and the Search for a Cure</p>-->
-            <img src="_img/foorAllagiesBoook.jpg"alt="Food Allergies: Traditional Chinese Medicine, Western Science, and the Search for a Cure" id="book"/>
-            <img src="_img/liBookTwo.jpg"alt="Traditional Chinese Medicine, Western Science, and the Fight Against Allergic Disease" id="book"/>
+            <img src="_img/foorAllagiesBoook.jpg" alt="Food Allergies: Traditional Chinese Medicine, Western Science, and the Search for a Cure" id="book"/>
+            <img src="_img/liBookTwo.jpg" alt="Traditional Chinese Medicine, Western Science, and the Fight Against Allergic Disease" id="book"/>
             
         </section>
         <section id="pegText">
