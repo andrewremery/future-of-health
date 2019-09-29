@@ -6,7 +6,7 @@ Developer ARE Visual (Andrew R Emery)
 Art Director/Designer: Jehan Said
 	Email:jehankjsaid@gmail.com
 Date Created: 1/29/16
-Last Edited 6/10/19
+Last Edited 9/29/19
 Written for: Future of health technology summit
 Swatch
 ===========================
@@ -360,6 +360,30 @@ hr{
 #aboutLeft h4{
 	color: rgba(31,31,31,1.00);
 }
+
+/*===========Photo Galary===============*/
+.photo-gallery * {
+	box-sizing: border-box;
+  }
+  
+  /* Create two equal columns that floats next to each other */
+  .photo-gallery .column {
+	float: left;
+	width: 33%;
+	padding: 5px;
+  }
+  
+  .photo-gallery .column img {
+	margin-top: 12px;
+	width: 33%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+	content: "";
+	display: table;
+	clear: both;
+  }
 /*===========Footer===============*/
 footer{
 	clear: both;
@@ -427,6 +451,14 @@ footer{
 	hgroup h3{
 		font-size: .7em;
 	}
+
+	.photo-gallery .column {
+		width: 50%;
+	  }
+	  
+	  .photo-gallery .column img {
+		width: 50%;
+	  }
 }
 @media (orientation:portrait){
 	#homePageHero{
@@ -501,6 +533,14 @@ footer{
 	 	clear: both;
 		width: 98%;
 	}
+
+	.photo-gallery .column {
+		width: 100%;
+	  }
+	  
+	  .photo-gallery .column img {
+		width: 100%;
+	  }
 }
 @media screen and (max-width: 1100px) {
 #pegasus{
