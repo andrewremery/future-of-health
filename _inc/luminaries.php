@@ -174,8 +174,8 @@ offerings to the consumer in the cancer treatment area?"/>
     <h5>Dr Danuta Glowacka</h5>
   </li>
 
-  <li><img src="_img/adamYala.jpg" alt="A photo of Adam Yala"/>
-    <h5>Adam Yala</h5>
+  <li><img src="_img/adamYala.jpg" alt="A photo of Adam Cross"/>
+    <h5>Adam Cross</h5>
   </li>
   
   <li><img src="_img/danielAnderson.jpg" alt="A photo of Daniel Anderson"/>
@@ -195,7 +195,7 @@ offerings to the consumer in the cancer treatment area?"/>
   </li>
   
   <li><img src="_img/jasonYala.jpg" alt="A photo of Jason Yala"/>
-    <h5>Jason Yala</h5>
+    <h5>Jason Cross</h5>
   </li>
   
   <li><img src="_img/josephCiolino.jpg" alt="A photo of Joseph Ciolino"/>
@@ -214,8 +214,8 @@ offerings to the consumer in the cancer treatment area?"/>
     <h5>Kristin Knouse</h5>
   </li>
   
-  <li><img src="_img/lubaGreenwood.jpg" alt="A photo of Luba Greenwood"/>
-    <h5>Luba Greenwood</h5>
+  <li><img src="_img/mahala-burn.jpg" alt="A photo of Mahala Burn"/>
+    <h5>Mahala Burn</h5>
   </li>
   
   <li><img src="_img/noahJakimo.jpg" alt="A photo of Noah Jakimo"/>
@@ -236,6 +236,10 @@ offerings to the consumer in the cancer treatment area?"/>
   
   <li><img src="_img/yasminJodat.jpg" alt="A photo of Yasmin Jodat"/>
     <h5>Yasmin Jodat</h5>
+  </li>
+  
+  <li><img src="_img/peggy-codding.jpg" alt="A photo of Peggy Codding"/>
+    <h5>Peggy Codding</h5>
   </li>
 </ul>
 

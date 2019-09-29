@@ -13,9 +13,9 @@
           	<ul>
                 <li><a href="index.php">Home</a></li>
                 <li><a href="awardWinner.php">Award Winner</a></li>
-                <li><a href="pastWinners.php">Past Winners</a></li>
+                <li><a href="pastWinners.php">Past FHTI Award Winners</a></li>
                 <li><a href="about.php">About the Institute</a></li>
-                <li><a href="marvin.php">Marvin Minsky Memorial</a></li>
+                <li><a href="photos-from-the-future-of-health-technology-annual-summit.php">Photo Gallery</a></li>
                 <li><a href="aboutRenataBushko.php">About the editor</a></li>
             </ul>
           </nav>

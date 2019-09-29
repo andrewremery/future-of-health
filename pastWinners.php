@@ -39,7 +39,7 @@
 
              </div>
 
-             <h3>Marvin Minsky</h3>
+             <h3>Xiu Min Li</h3>
              <h4>2016</h4>
          </div>
          <div class="winnerSectionRightCol">
@@ -86,22 +86,7 @@ for a Cure”.</p>
          </div>
          </section>
      <!---endWinner---->
-     <section class="winnerSection">
-     <div class="borderdb-oPast"></div>
-       <div class="winnerSectionLeftCol">
-           <div class="awardWinnerCircle">
-             <img src="_img/minskyBushko.jpg" alt="Marvin Minski">
-
-             </div>
-
-             <h3>Marvin Minsky</h3>
-             <h4>1997</h4>
-         </div>
-         <div class="winnerSectionRightCol">
-           <p>In Loving Memory of Marvin Minsky
-Professor Marvin Minsky is one of the founders of the field of Artificial Intelligence and one of the greatest scientists and thinkers on our times – a symbol of creativity and innovation. He was a great mentor to many students. Marvin Minsky has made many contributions to AI, cognitive psychology, mathematics, computational linguistics, robotics, and optics. In recent years he has worked chiefly on imparting to machines the human capacity for commonsense reasoning. His conception of human intellectual structure and function is presented in The Society of Mind which is also the title of the course at MIT. He received a BA and PhD in mathematics at Harvard and Princeton. In 1951, he built the SNARC, the first neural network simulator. His other inventions include mechanical hands and other robotic devices, the confocal scanning microscope, the “Muse” synthesizer for musical variations (with E. Fredkin), and the first LOGO “turtle” (with S. Papert). A member of the NAS, NAE and Argentine NAS, he has received the ACM Turing Award, the MIT Killian Award, the Japan Prize, the IJCAI Research Excellence Award, the Rank Prize and the Robert Wood Prize for Optoelectronics, and the Benjamin Franklin Medal. We are grateful for his participation in Future of Health Technology Summits since 1996 and his commitment to look for breakthrough technologies improving health. He is the first recipient of the FHTI Future of Health Technology Award in 1998. At FHTI’s 20th Future of Health Technology Summit we will remember, honor and build upon his scientific work. He will be greatly missed.</p>
-         </div>
-     <!---endWinner---->
+     
 
 <section class="winnerSection">
          	<div class="borderdb-oPast"></div>
