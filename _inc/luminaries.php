@@ -195,7 +195,7 @@ offerings to the consumer in the cancer treatment area?"/>
   </li>
   
   <li><img src="_img/jasonYala.jpg" alt="A photo of Jason Yala"/>
-    <h5>Jason Yala</h5>
+    <h5>Jason Cross</h5>
   </li>
   
   <li><img src="_img/josephCiolino.jpg" alt="A photo of Joseph Ciolino"/>
