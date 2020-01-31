@@ -112,11 +112,7 @@ offerings to the consumer in the cancer treatment area?"/>
 
     <h5>Barbara Winston</h5>
     </li>
-
-     <li><img src="_img/rahulGhate.jpg" alt="A photo of Rahul Ghate "/>
-
-    <h5>Rahul Ghate</h5>
-    </li>
+    
       <li><img src="_img/sanjaySarma.jpg" alt="A photo of Sanjay Sarma"/>
 
     <h5>Sanjay Sarma</h5>
